@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Helper · 과제 도우미"
+  short_description: "교안 기반 과제 수행·검증을 돕습니다. AI 결과는 전문성이 부족할 수 있어 직접 확인이 필요합니다"
+  default_prompt: "$project-helper 제공한 작업 환경에서 과제 안내와 자료를 확인하고, 요구사항에 맞춰 수행·검증한 뒤 결과물과 남은 확인 사항을 정리해줘."

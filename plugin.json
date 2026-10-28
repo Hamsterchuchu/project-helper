@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "project-helper",
+  "version": "0.1.0",
+  "description": "Help complete and verify assignments in a user-provided browser or computer environment. Always require user review of AI-assisted results.",
+  "license": "MIT",
+  "keywords": ["assignments", "coursework", "verification", "browser", "computer-use"]
+}

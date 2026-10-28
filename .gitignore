@@ -1,0 +1,27 @@
+# Keep private task artifacts outside this public package.
+/private/
+/work/
+/outputs/
+/validation-local/
+/.agents/
+
+# Authentication and local configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+token*.json
+
+# Runtime and editor files
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
